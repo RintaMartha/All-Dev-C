@@ -1,0 +1,17 @@
+kisi-kisi ukk oktober 2023
+1. operator +,-,*,/
+study kasus pada toko online
+2. data array (array 1 dimensi)
+pelajri study kasus data nilai/data penjualan (tipe float)
+3. membuat tampilan menu option dan perulangan
+pelajari study kasus menu kasir sederhana 
+4. menjalankan beberapa fungsi (konsep OOP)
+5. create, read, update,delete
+6. menjalankan exception
+
+
+
+Durasi ujian
+30 meniit teori
+3 jam praktek
+wawancara/observasi 
